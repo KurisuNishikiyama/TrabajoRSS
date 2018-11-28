@@ -1,0 +1,28 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+<title type="text">Atom</title>
+<updated>2018-11-28T10:30:46Z</updated>
+	<link rel="self" type="application/atom+xml" href="http://www.infoalisal.com/feed/atom"/>
+	<link rel="alternate" type="text/html" href=""/>
+	<id>Página</id>
+	<entry>
+		<title>Página</title>
+		<link rel="alternate" type="text/html" href="https://www.tiempo.es/"/>
+		<updated>2018-11-28T10:30:46Z</updated>
+		<id>Tiempo</id>
+			<author>
+				<name>Cristina Mª Martínez</name>
+				<email>cristina.maria.martinezalvarez@gmail.com</email>
+			</author>
+		<summary>El tiempo en la Comunidad de Madrid.</summary>
+	</entry>
+	<entry>
+		<title>Noticias</title>
+		<link rel="alternate" type="text/html" href="https://www.rpgsite.net/news/8043-japanese-exclusive-yakuza-online-reaches-over-one-million-users-in-under-a-week"/>
+		<updated>2018-11-28T10:30:46Z</updated>
+		<id>RGG</id>
+			<author>
+				<name>Cristina Mª Martínez</name>
+			</author>
+		<summary>Noticias de Ryu Ga Gotoku.</summary>
+	</entry>
+</feed>

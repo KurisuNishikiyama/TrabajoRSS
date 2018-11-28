@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Página web</title>
+  <link>https://www.w3schools.com</link>
+  <description>Página web donde está el RSS.</description>
+  <item>
+    <title>El tiempo</title>
+    <link>https://www.tiempo.es/</link>
+    <description>El tiempo en la Comunidad de Madrid.</description>
+  </item>
+  <item>
+    <title>Noticias</title>
+    <link>https://www.rpgsite.net/news/8043-japanese-exclusive-yakuza-online-reaches-over-one-million-users-in-under-a-week</link>
+    <description>Noticias de Ryu Ga Gotoku.</description>
+  </item>
+</channel>
+</rss> 
