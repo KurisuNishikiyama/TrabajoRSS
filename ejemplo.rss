@@ -3,7 +3,7 @@
 
 <channel>
   <title>Página web</title>
-  <link>https://www.w3schools.com</link>
+  <link>https://kurisunishikiyama.github.io</link>
   <description>Página web donde está el RSS.</description>
   <item>
     <title>El tiempo</title>
@@ -12,7 +12,7 @@
   </item>
   <item>
     <title>Noticias</title>
-    <link>https://www.rpgsite.net/news/8043-japanese-exclusive-yakuza-online-reaches-over-one-million-users-in-under-a-week</link>
+    <link>https://kurisunishikiyama.github.io/TrabajoRSS/noticia.html</link>
     <description>Noticias de Ryu Ga Gotoku.</description>
   </item>
 </channel>
